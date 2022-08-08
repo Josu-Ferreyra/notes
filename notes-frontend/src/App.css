@@ -1,0 +1,11 @@
+.lista-notas{
+  margin: 0;
+  padding: 0;
+}
+.note{
+  margin: 10px 0;
+  padding: 15px 25px;
+  background-color: #999;
+  
+  list-style-type: none;
+}
